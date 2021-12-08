@@ -7,3 +7,5 @@
 `brew install zsh ripgrep fd rbenv`
 add `/usr/local/bin/zsh` to `/etc/shells`
 restart terminal
+
+Go to Terminal -> Preferences -> Keyboard -> Set Option as Meta Key
